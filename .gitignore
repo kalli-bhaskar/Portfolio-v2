@@ -33,4 +33,7 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+#codesandbox
+/.codesandbox
 next-env.d.ts
